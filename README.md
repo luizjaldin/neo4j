@@ -1,5 +1,5 @@
 # neo4j
-Criação de uma base de grafos e consultas com cypher do Neo4j 
+O objetivo desse repo é a criação de uma base de grafos e consultas com cypher do Neo4j
 
 Para utilização desse código é necessário baixar o Neo4j desktop https://neo4j.com/download/
 
